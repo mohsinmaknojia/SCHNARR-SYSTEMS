@@ -261,3 +261,41 @@ section{
     }
 
 }
+
+.dropdown-menu{
+    background-color: #272525;
+    border-radius: 0px;
+}
+
+.dropdown-menu .dropdown-item{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.dropdown-menu .dropdown-item:hover{
+    color: #272525;
+    background-color: #F0C431;
+}
+
+
+.contact-ul li{
+    margin-bottom: 20px;
+}
+
+.contact-ul li strong{
+    color: #F0C431;
+}
+
+.contactform input{
+    background-color: #272525;
+}
+
+.contactform textarea{
+    background-color: #272525;
+}
+
+.contactform .btn{
+    background-color: #F0C431;
+    color: #272525;
+}
